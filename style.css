@@ -5,6 +5,10 @@ body {
   padding: 20px;
 }
 
-h1 {
-  color: #007acc;
+header{
+  background : #333;
+  color : white;
+  padding : 2em;
+  text-align : center;
+  
 }
